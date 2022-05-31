@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{3D249861-42A3-ECB9-5A32-6E8905C0087C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RPG_Demo_Level",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
